@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Nithin G Shastry        nithingshastry@gmail.com
 
 # THANKS
 
